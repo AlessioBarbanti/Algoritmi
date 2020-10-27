@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1585221370 source:c:\users\kyra\desktop\algo\algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"bloomfilter.h"
+
+1585222980 c:\users\kyra\desktop\algo\algo\bloomfilter.h
+	<stdbool.h>
+	"hash.h"
+
+1599560341 source:c:\users\kyra\desktop\algo\algo\bloomfilter.c
+	<stdio.h>
+	<stdlib.h>
+	"bloomfilter.h"
+
+1585165788 c:\users\kyra\desktop\algo\algo\hash.h
+
+1585166110 source:c:\users\kyra\desktop\algo\algo\hash.c
+	"hash.h"
+
